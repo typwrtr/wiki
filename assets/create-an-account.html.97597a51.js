@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as s}from"../app.62253ba6.mjs";const n={},o=e("h1",{id:"test",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#test","aria-hidden":"true"},"#"),s(" test")],-1),r=[o];function _(d,i){return a(),c("div",null,r)}const l=t(n,[["render",_],["__file","create-an-account.html.vue"]]);export{l as default};

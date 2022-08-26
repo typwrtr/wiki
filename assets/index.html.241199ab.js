@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as i,a as e,b as o}from"../app.62253ba6.mjs";const c={},n=e("h1",{id:"wiki",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#wiki","aria-hidden":"true"},"#"),o(" Wiki")],-1),s=e("p",null,"Welcome to authtrail wiki",-1),r=[n,s];function _(d,l){return a(),i("div",null,r)}const f=t(c,[["render",_],["__file","index.html.vue"]]);export{f as default};

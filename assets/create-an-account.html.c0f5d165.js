@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-048610fc","path":"/about/community/create-an-account.html","title":"test","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1661515972000,"contributors":[{"name":"Tadej Vengust","email":"vengust.tadej@gmail.com","commits":1}]},"filePathRelative":"about/community/create-an-account.md"}');export{t as data};

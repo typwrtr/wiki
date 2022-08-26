@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-74bc627b","path":"/about/","title":"sdfs","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1661515972000,"contributors":[{"name":"Tadej Vengust","email":"vengust.tadej@gmail.com","commits":1}]},"filePathRelative":"about/index.md"}');export{e as data};
